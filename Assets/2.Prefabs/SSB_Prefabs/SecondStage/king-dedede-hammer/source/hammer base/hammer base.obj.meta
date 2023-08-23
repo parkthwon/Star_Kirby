@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 81d91133fadb8314798ff699056de0a1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_SidesMat
+    second: {fileID: 2100000, guid: 420d3e8e1925552498d4bbab59108662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_polySurface16_spikes_top_spikes1Mat
+    second: {fileID: 2100000, guid: cfd7d51241a96aa4ca11c9b239859b01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_polySurface16_spikes_bottomMat
+    second: {fileID: 2100000, guid: e971abb8875bc2d48a490cfb20af8bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface10Mat
+    second: {fileID: 2100000, guid: 77ec5a3086408f34dba0cc2e13c6e7e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface14Mat
+    second: {fileID: 2100000, guid: d8b62905e69ccb446875710aa798caa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface15Mat
+    second: {fileID: 2100000, guid: 4b8c28f0411f6fe48aba18b254b4a7c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface17Mat
+    second: {fileID: 2100000, guid: 6fafa140158a03247bb2f45c9b87c4d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface18Mat
+    second: {fileID: 2100000, guid: 8f9c29be5b5afba46b1569a6bd3233a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface19Mat
+    second: {fileID: 2100000, guid: c2e14a072c04fba49a18a109a1db331c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface20Mat
+    second: {fileID: 2100000, guid: 995a169fd04a0364dac45b6c10c1a502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface21Mat
+    second: {fileID: 2100000, guid: 14b12c051b877384eaeebf6a06776d40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface22Mat
+    second: {fileID: 2100000, guid: 27a4ab24c02e8054d950e05afc9bd6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface23Mat
+    second: {fileID: 2100000, guid: 4327e8efe3c501148935fbfe97adb8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface24Mat
+    second: {fileID: 2100000, guid: 5aea7bd71aedab349be7430ce38a3115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface25Mat
+    second: {fileID: 2100000, guid: a7aa81a66a7f6fc47bc26340f68e5f5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface26Mat
+    second: {fileID: 2100000, guid: 00c52d6e7df072e4388560a910e4880f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface27Mat
+    second: {fileID: 2100000, guid: 8e323409411b222438e7187f63343ad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes1_spikes_bottom_polySurface6Mat
+    second: {fileID: 2100000, guid: 78b92fa762d25f14885cd7bc9d3eac8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface10Mat
+    second: {fileID: 2100000, guid: 05078559de3165b4dac7af779b38d845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface14Mat
+    second: {fileID: 2100000, guid: 2c14363b4837fe54598ac966a457b4a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface15Mat
+    second: {fileID: 2100000, guid: 64c536900b15f9b4d82e8d7aeedeab28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface17Mat
+    second: {fileID: 2100000, guid: 311f7dcc5b9b3154d88a314ec9e6acfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface18Mat
+    second: {fileID: 2100000, guid: 65ddd94d89030274cb97017bc9aae2e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface19Mat
+    second: {fileID: 2100000, guid: 31778c954f92522418762396b5323878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface20Mat
+    second: {fileID: 2100000, guid: cc352673e45bfa74fb25614f1a3edbf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface21Mat
+    second: {fileID: 2100000, guid: 27272e79018a0a34da198131ce18f8a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface22Mat
+    second: {fileID: 2100000, guid: e486113bdd1f33c42bb173e6ad8e3eb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface23Mat
+    second: {fileID: 2100000, guid: d4e4da66f9fe12544a7eecf7ce2eca3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface24Mat
+    second: {fileID: 2100000, guid: 5177525135497be47953ba653b65d7d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface25Mat
+    second: {fileID: 2100000, guid: 0bdac8c7393edd743a02aedc99e0da0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface26Mat
+    second: {fileID: 2100000, guid: d1bf539fa6c81aa44b910b0d588c9b52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface27Mat
+    second: {fileID: 2100000, guid: 587cc3d369face44e9c34521460fb859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_spikes_top_spikes1_polySurface6Mat
+    second: {fileID: 2100000, guid: a672e5fd83c739743bfae44c5605217d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hammer_export_stickMat
+    second: {fileID: 2100000, guid: 95501645922c53c498753a13731c970c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood2_hammer_exportMat
+    second: {fileID: 2100000, guid: e7beeae97a238584984c0c5ad6427681, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

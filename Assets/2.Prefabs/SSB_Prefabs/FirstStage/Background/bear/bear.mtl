@@ -1,0 +1,42 @@
+newmtl bear:blinn1SG
+illum 4
+Kd 0.36 0.60 0.70
+Ka 0.00 0.00 0.00
+Tf 0.29 0.29 0.29
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl bear:blinn2SG
+illum 4
+Kd 0.94 0.94 0.94
+Ka 0.03 0.07 0.07
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.46 0.66 0.64
+Ns 0.06
+newmtl bear:blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl bear:lambert2SG
+illum 4
+Kd 1.00 0.98 0.85
+Ka 0.03 0.03 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl bear:lambert4SG
+illum 4
+Kd 0.77 0.72 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.27 0.15 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
